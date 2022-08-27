@@ -97,7 +97,7 @@ h1, h2, h3, .header_logo_text, .btn {
     margin: 0 20px;
     width: 130px;
 }
-.box_in p {
+.box_in figcaption {
     margin-top: 10px;
     text-align: center;
     text-shadow: 0 0 3px gray;
